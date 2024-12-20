@@ -1,0 +1,1 @@
+This is where you upload everything, files, folders and you can delete them to, however if you delete the root folder a.k.a uploads you may break the system until you create a folder called uploads again.
